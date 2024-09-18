@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O DevLink é um agregador de links para usar como cartão de visitas online.
+Project Refund - Projeto de Reembolso - funcionalidades de uma aplicação de Solicitação de reembolso.
 
 ## 🔖 Layout
 
